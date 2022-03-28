@@ -26,5 +26,10 @@
 
 - Exception handling with `try` and `catch` statements
 
+### allGeeks.txt
+
+  Data is read in from this file and used to instantiate objects of the `Geek` class.
+
+
   :coffee: :coffee: :coffee: :coffee:
 
