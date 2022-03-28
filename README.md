@@ -22,4 +22,9 @@
 
 - Modified Java for each loop
 
+- File Handling - Reading data in from a file
+
+- Exception handling with `try` and `catch` statements
+
   :coffee: :coffee: :coffee: :coffee:
+
